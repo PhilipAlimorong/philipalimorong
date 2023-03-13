@@ -4,6 +4,8 @@
 
 ## I made this project for educational purposes only.
 
+### BASIC GIT COMMANDS                                   
+
 ‣ Name: John Philip S. Alimorong
 
 ‣ Course: BSIT
