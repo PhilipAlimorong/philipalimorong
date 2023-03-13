@@ -1,16 +1,16 @@
-### Hi there 👋
+![GitHub-Mark](https://user-images.githubusercontent.com/127371993/224670361-8075c0c8-1227-4844-af6d-c31b776dcb7a.png)
 
-<!--
-**PhilipAlimorong/philipalimorong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋, my name is Philip
 
-Here are some ideas to get you started:
+## I made this project for educational purposes only.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+‣ Name: John Philip S. Alimorong
+
+‣ Course: BSIT
+
+‣ Section: 22016
+
+‣ Subject: System Integration and Architecture
+
+
+- 🔭 By the way I'm new to this page.
